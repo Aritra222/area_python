@@ -40,7 +40,3 @@ print (g*3)
 print ("Suppose the side of the square is",s1)
 print ("The area of square is ", areaofsquare)
 #End of Program
-
-
-
-
